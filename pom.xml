@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>xyz.fz</groupId>
-    <artifactId>admin-server</artifactId>
+    <artifactId>springBootAdminServer</artifactId>
     <version>1.0</version>
 
     <properties>
